@@ -1,0 +1,3 @@
+Loaded init from .torch/ofa_checkpoints/0/ofa_D4_E6_K7
+Loaded init from .torch/ofa_checkpoints/0/ofa_D4_E6_K7
+1.667	68.801	88.225	R160-D4-E6-K3-W0 (59.140), R224-D4-E6-K3-W0 (58.492), R160-D4-E6-K5-W0 (69.548), R224-D4-E6-K5-W0 (73.426), R160-D4-E6-K7-W0 (74.842), R224-D4-E6-K7-W0 (77.360), 
